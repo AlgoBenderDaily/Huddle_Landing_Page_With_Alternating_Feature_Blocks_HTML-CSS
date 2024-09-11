@@ -344,8 +344,7 @@ a:any-link {
 
   /* || HEADER-NAV */
   .header__nav {
-    gap: 880px;
-    position: relative;
+    gap: 190%;
   }
 
   .header__logo img {
