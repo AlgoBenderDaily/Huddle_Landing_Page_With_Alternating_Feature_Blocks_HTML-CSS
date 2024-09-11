@@ -1,977 +1,171 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   width="301"
-   height="214"
-   viewBox="0 0 301 214"
-   fill="none"
-   version="1.1"
-   id="svg91"
-   sodipodi:docname="mobile-hero.svg"
-   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview91"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="3.7370924"
-     inkscape:cx="103.55644"
-     inkscape:cy="104.22541"
-     inkscape:window-width="2560"
-     inkscape:window-height="1369"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg91" />
-  <g
-     id="g91">
-    <g
-       filter="url(#filter0_d_3_4)"
-       id="g1">
-      <rect
-         x="3"
-         y="3"
-         width="279.685"
-         height="174.167"
-         rx="5.82677"
-         fill="white"
-         id="rect1" />
-    </g>
-    <g
-       filter="url(#filter1_d_3_4)"
-       id="g2">
-      <path
-         d="M3 8.82677C3 5.60873 5.60873 3 8.82677 3H276.858C280.076 3 282.685 5.60874 282.685 8.82677V21.5778H3V8.82677Z"
-         fill="#00252E"
-         id="path1" />
-    </g>
-    <rect
-       x="23.9766"
-       y="8.80556"
-       width="58.2677"
-       height="6.96667"
-       rx="1.45669"
-       fill="#E1E8EE"
-       id="rect2" />
-    <rect
-       x="254.716"
-       y="9.38611"
-       width="9.32283"
-       height="1.16111"
-       rx="0.580556"
-       fill="#D8D8D8"
-       id="rect3" />
-    <rect
-       x="254.716"
-       y="11.7083"
-       width="9.32283"
-       height="1.16111"
-       rx="0.580556"
-       fill="#D8D8D8"
-       id="rect4" />
-    <rect
-       x="254.716"
-       y="14.0306"
-       width="9.32283"
-       height="1.16111"
-       rx="0.580556"
-       fill="#D8D8D8"
-       id="rect5" />
-    <ellipse
-       cx="37.9608"
-       cy="56.9917"
-       rx="13.9843"
-       ry="13.9333"
-       fill="url(#paint0_linear_3_4)"
-       id="ellipse5" />
-    <rect
-       x="68.2603"
-       y="46.5417"
-       width="33.5039"
-       height="4.64444"
-       rx="0.874016"
-       fill="#E1E8EE"
-       id="rect6" />
-    <rect
-       x="68.2603"
-       y="55.8306"
-       width="116.535"
-       height="2.32222"
-       rx="0.874016"
-       fill="#E1E8EE"
-       id="rect7" />
-    <rect
-       x="68.2603"
-       y="60.475"
-       width="106.824"
-       height="2.32222"
-       rx="0.874016"
-       fill="#E1E8EE"
-       id="rect8" />
-    <rect
-       x="68.2603"
-       y="65.1194"
-       width="97.1129"
-       height="2.32222"
-       rx="0.874016"
-       fill="#E1E8EE"
-       id="rect9" />
-    <ellipse
-       cx="202.276"
-       cy="56.9917"
-       rx="3.49606"
-       ry="3.48333"
-       fill="#A7B9C8"
-       id="ellipse9" />
-    <ellipse
-       cx="220.921"
-       cy="56.9917"
-       rx="3.49606"
-       ry="3.48333"
-       fill="#A7B9C8"
-       id="ellipse10" />
-    <ellipse
-       cx="211.599"
-       cy="56.9917"
-       rx="3.49606"
-       ry="3.48333"
-       fill="#A7B9C8"
-       id="ellipse11" />
-    <ellipse
-       cx="230.244"
-       cy="56.9917"
-       rx="3.49606"
-       ry="3.48333"
-       fill="#A7B9C8"
-       id="ellipse12" />
-    <ellipse
-       cx="239.567"
-       cy="56.9917"
-       rx="3.49606"
-       ry="3.48333"
-       fill="#A7B9C8"
-       id="ellipse13" />
-    <ellipse
-       cx="37.0868"
-       cy="95.5986"
-       rx="13.1102"
-       ry="13.0625"
-       fill="url(#paint1_linear_3_4)"
-       id="ellipse14" />
-    <rect
-       x="67.3862"
-       y="85.1486"
-       width="33.5039"
-       height="4.64444"
-       rx="0.874016"
-       fill="#E1E8EE"
-       id="rect14" />
-    <rect
-       x="67.3862"
-       y="94.4375"
-       width="116.535"
-       height="2.32222"
-       rx="0.874016"
-       fill="#E1E8EE"
-       id="rect15" />
-    <rect
-       x="67.3862"
-       y="99.0819"
-       width="106.824"
-       height="2.32222"
-       rx="0.874016"
-       fill="#E1E8EE"
-       id="rect16" />
-    <rect
-       x="67.3862"
-       y="103.726"
-       width="97.1129"
-       height="2.32222"
-       rx="0.874016"
-       fill="#E1E8EE"
-       id="rect17" />
-    <ellipse
-       cx="201.402"
-       cy="95.5986"
-       rx="3.49606"
-       ry="3.48333"
-       fill="#A7B9C8"
-       id="ellipse17" />
-    <ellipse
-       cx="220.047"
-       cy="95.5986"
-       rx="3.49606"
-       ry="3.48333"
-       fill="#A7B9C8"
-       id="ellipse18" />
-    <ellipse
-       cx="210.725"
-       cy="95.5986"
-       rx="3.49606"
-       ry="3.48333"
-       fill="#A7B9C8"
-       id="ellipse19" />
-    <ellipse
-       cx="37.0868"
-       cy="137.108"
-       rx="13.1102"
-       ry="13.0625"
-       fill="url(#paint2_linear_3_4)"
-       id="ellipse20" />
-    <rect
-       x="67.3862"
-       y="126.658"
-       width="33.5039"
-       height="4.64444"
-       rx="0.874016"
-       fill="#E1E8EE"
-       id="rect20" />
-    <rect
-       x="67.3862"
-       y="135.947"
-       width="116.535"
-       height="2.32222"
-       rx="0.874016"
-       fill="#E1E8EE"
-       id="rect21" />
-    <rect
-       x="67.3862"
-       y="140.592"
-       width="106.824"
-       height="2.32222"
-       rx="0.874016"
-       fill="#E1E8EE"
-       id="rect22" />
-    <rect
-       x="67.3862"
-       y="145.236"
-       width="97.1129"
-       height="2.32222"
-       rx="0.874016"
-       fill="#E1E8EE"
-       id="rect23" />
-    <ellipse
-       cx="201.402"
-       cy="137.108"
-       rx="3.49606"
-       ry="3.48333"
-       fill="#A7B9C8"
-       id="ellipse23" />
-    <ellipse
-       cx="220.047"
-       cy="137.108"
-       rx="3.49606"
-       ry="3.48333"
-       fill="#A7B9C8"
-       id="ellipse24" />
-    <ellipse
-       cx="210.725"
-       cy="137.108"
-       rx="3.49606"
-       ry="3.48333"
-       fill="#A7B9C8"
-       id="ellipse25" />
-    <ellipse
-       cx="229.37"
-       cy="137.108"
-       rx="3.49606"
-       ry="3.48333"
-       fill="#A7B9C8"
-       id="ellipse26" />
-    <g
-       filter="url(#filter2_d_3_4)"
-       id="g26">
-      <path
-         fill-rule="evenodd"
-         clip-rule="evenodd"
-         d="M205.771 68.35C205.771 65.6039 207.998 63.3778 210.744 63.3778H294.028C296.774 63.3778 299 65.6039 299 68.35V207.028C299 209.774 296.774 212 294.028 212H210.744C207.998 212 205.771 209.774 205.771 207.028V68.35Z"
-         fill="white"
-         id="path26" />
-    </g>
-    <g
-       filter="url(#filter3_d_3_4)"
-       id="g27">
-      <path
-         fill-rule="evenodd"
-         clip-rule="evenodd"
-         d="M205.771 68.35C205.771 65.6039 207.998 63.3778 210.744 63.3778H294.028C296.774 63.3778 299 65.6039 299 68.35V79.2308H205.771V68.35Z"
-         fill="#00252E"
-         id="path27" />
-    </g>
-    <rect
-       x="215.133"
-       y="68.8273"
-       width="30.2992"
-       height="5.94489"
-       rx="1.24304"
-       fill="#E1E8EE"
-       id="rect27" />
-    <rect
-       x="281.1"
-       y="69.3227"
-       width="7.95549"
-       height="0.990815"
-       rx="0.495407"
-       fill="#D8D8D8"
-       id="rect28" />
-    <rect
-       x="281.1"
-       y="71.3043"
-       width="7.95549"
-       height="0.990815"
-       rx="0.495407"
-       fill="#D8D8D8"
-       id="rect29" />
-    <rect
-       x="281.1"
-       y="73.2859"
-       width="7.95549"
-       height="0.990815"
-       rx="0.495407"
-       fill="#D8D8D8"
-       id="rect30" />
-    <ellipse
-       cx="219.464"
-       cy="99.0819"
-       rx="4.37008"
-       ry="4.35417"
-       fill="url(#paint3_linear_3_4)"
-       id="ellipse30" />
-    <rect
-       x="228.496"
-       y="95.5986"
-       width="16.752"
-       height="1.54815"
-       rx="0.267918"
-       fill="#E1E8EE"
-       id="rect31" />
-    <rect
-       x="228.496"
-       y="98.6949"
-       width="58.2677"
-       height="0.774074"
-       rx="0.267918"
-       fill="#E1E8EE"
-       id="rect32" />
-    <rect
-       x="228.496"
-       y="100.243"
-       width="53.4121"
-       height="0.774074"
-       rx="0.267918"
-       fill="#E1E8EE"
-       id="rect33" />
-    <rect
-       x="228.496"
-       y="101.791"
-       width="48.5564"
-       height="0.774074"
-       rx="0.267918"
-       fill="#E1E8EE"
-       id="rect34" />
-    <ellipse
-       cx="219.464"
-       cy="139.14"
-       rx="4.37008"
-       ry="4.35417"
-       fill="url(#paint4_linear_3_4)"
-       id="ellipse34" />
-    <rect
-       x="228.496"
-       y="135.657"
-       width="16.752"
-       height="1.54815"
-       rx="0.267918"
-       fill="#E1E8EE"
-       id="rect35" />
-    <rect
-       x="228.496"
-       y="138.753"
-       width="58.2677"
-       height="0.774074"
-       rx="0.267918"
-       fill="#E1E8EE"
-       id="rect36" />
-    <rect
-       x="228.496"
-       y="140.301"
-       width="53.4121"
-       height="0.774074"
-       rx="0.267918"
-       fill="#E1E8EE"
-       id="rect37" />
-    <rect
-       x="228.496"
-       y="141.85"
-       width="48.5564"
-       height="0.774074"
-       rx="0.267918"
-       fill="#E1E8EE"
-       id="rect38" />
-    <rect
-       x="228.496"
-       y="108.951"
-       width="16.752"
-       height="1.54815"
-       rx="0.267918"
-       fill="#E1E8EE"
-       id="rect39" />
-    <rect
-       x="228.496"
-       y="112.048"
-       width="58.2677"
-       height="0.774074"
-       rx="0.267918"
-       fill="#E1E8EE"
-       id="rect40" />
-    <rect
-       x="228.496"
-       y="113.596"
-       width="53.4121"
-       height="0.774074"
-       rx="0.267918"
-       fill="#E1E8EE"
-       id="rect41" />
-    <rect
-       x="228.496"
-       y="115.144"
-       width="48.5564"
-       height="0.774074"
-       rx="0.267918"
-       fill="#E1E8EE"
-       id="rect42" />
-    <ellipse
-       cx="219.464"
-       cy="112.435"
-       rx="4.37008"
-       ry="4.35417"
-       fill="url(#paint5_linear_3_4)"
-       id="ellipse42" />
-    <rect
-       x="228.496"
-       y="149.01"
-       width="16.752"
-       height="1.54815"
-       rx="0.267918"
-       fill="#E1E8EE"
-       id="rect43" />
-    <rect
-       x="228.496"
-       y="152.106"
-       width="58.2677"
-       height="0.774074"
-       rx="0.267918"
-       fill="#E1E8EE"
-       id="rect44" />
-    <rect
-       x="228.496"
-       y="153.654"
-       width="53.4121"
-       height="0.774074"
-       rx="0.267918"
-       fill="#E1E8EE"
-       id="rect45" />
-    <rect
-       x="228.496"
-       y="155.202"
-       width="48.5564"
-       height="0.774074"
-       rx="0.267918"
-       fill="#E1E8EE"
-       id="rect46" />
-    <ellipse
-       cx="219.464"
-       cy="152.493"
-       rx="4.37008"
-       ry="4.35417"
-       fill="url(#paint6_linear_3_4)"
-       id="ellipse46" />
-    <rect
-       x="228.496"
-       y="122.304"
-       width="16.752"
-       height="1.54815"
-       rx="0.267918"
-       fill="#E1E8EE"
-       id="rect47" />
-    <rect
-       x="228.496"
-       y="125.4"
-       width="58.2677"
-       height="0.774074"
-       rx="0.267918"
-       fill="#E1E8EE"
-       id="rect48" />
-    <rect
-       x="228.496"
-       y="126.949"
-       width="53.4121"
-       height="0.774074"
-       rx="0.267918"
-       fill="#E1E8EE"
-       id="rect49" />
-    <rect
-       x="228.496"
-       y="128.497"
-       width="48.5564"
-       height="0.774074"
-       rx="0.267918"
-       fill="#E1E8EE"
-       id="rect50" />
-    <ellipse
-       cx="219.464"
-       cy="125.787"
-       rx="4.37008"
-       ry="4.35417"
-       fill="url(#paint7_linear_3_4)"
-       id="ellipse50" />
-    <rect
-       x="228.496"
-       y="162.363"
-       width="16.752"
-       height="1.54815"
-       rx="0.267918"
-       fill="#E1E8EE"
-       id="rect51" />
-    <rect
-       x="228.496"
-       y="165.459"
-       width="58.2677"
-       height="0.774074"
-       rx="0.267918"
-       fill="#E1E8EE"
-       id="rect52" />
-    <rect
-       x="228.496"
-       y="167.007"
-       width="53.4121"
-       height="0.774074"
-       rx="0.267918"
-       fill="#E1E8EE"
-       id="rect53" />
-    <rect
-       x="228.496"
-       y="168.555"
-       width="48.5564"
-       height="0.774074"
-       rx="0.267918"
-       fill="#E1E8EE"
-       id="rect54" />
-    <ellipse
-       cx="219.464"
-       cy="165.846"
-       rx="4.37008"
-       ry="4.35417"
-       fill="url(#paint8_linear_3_4)"
-       id="ellipse54" />
-    <ellipse
-       cx="219.464"
-       cy="179.199"
-       rx="4.37008"
-       ry="4.35417"
-       fill="url(#paint9_linear_3_4)"
-       id="ellipse55" />
-    <rect
-       x="228.496"
-       y="175.715"
-       width="16.752"
-       height="1.54815"
-       rx="0.267918"
-       fill="#E1E8EE"
-       id="rect55" />
-    <rect
-       x="228.496"
-       y="178.812"
-       width="58.2677"
-       height="0.774074"
-       rx="0.267918"
-       fill="#E1E8EE"
-       id="rect56" />
-    <rect
-       x="228.496"
-       y="180.36"
-       width="53.4121"
-       height="0.774074"
-       rx="0.267918"
-       fill="#E1E8EE"
-       id="rect57" />
-    <rect
-       x="228.496"
-       y="181.908"
-       width="48.5564"
-       height="0.774074"
-       rx="0.267918"
-       fill="#E1E8EE"
-       id="rect58" />
-    <rect
-       x="228.496"
-       y="189.068"
-       width="16.752"
-       height="1.54815"
-       rx="0.267918"
-       fill="#E1E8EE"
-       id="rect59" />
-    <rect
-       x="228.496"
-       y="192.164"
-       width="58.2677"
-       height="0.774074"
-       rx="0.267918"
-       fill="#E1E8EE"
-       id="rect60" />
-    <rect
-       x="228.496"
-       y="193.712"
-       width="53.4121"
-       height="0.774074"
-       rx="0.267918"
-       fill="#E1E8EE"
-       id="rect61" />
-    <rect
-       x="228.496"
-       y="195.261"
-       width="48.5564"
-       height="0.774074"
-       rx="0.267918"
-       fill="#E1E8EE"
-       id="rect62" />
-    <ellipse
-       cx="219.464"
-       cy="192.551"
-       rx="4.37008"
-       ry="4.35417"
-       fill="url(#paint10_linear_3_4)"
-       id="ellipse62" />
-  </g>
-  <defs
-     id="defs91">
-    <filter
-       id="filter0_d_3_4"
-       x="0"
-       y="0"
-       width="285.685"
-       height="180.167"
-       filterUnits="userSpaceOnUse"
-       color-interpolation-filters="sRGB">
-      <feFlood
-         flood-opacity="0"
-         result="BackgroundImageFix"
-         id="feFlood62" />
-      <feColorMatrix
-         in="SourceAlpha"
-         type="matrix"
-         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
-         result="hardAlpha"
-         id="feColorMatrix62" />
-      <feOffset
-         id="feOffset62" />
-      <feGaussianBlur
-         stdDeviation="1.5"
-         id="feGaussianBlur62" />
-      <feColorMatrix
-         type="matrix"
-         values="0 0 0 0 0 0 0 0 0 0.145098 0 0 0 0 0.180392 0 0 0 0.181839 0"
-         id="feColorMatrix63" />
-      <feBlend
-         mode="normal"
-         in2="BackgroundImageFix"
-         result="effect1_dropShadow_3_4"
-         id="feBlend63" />
-      <feBlend
-         mode="normal"
-         in="SourceGraphic"
-         in2="effect1_dropShadow_3_4"
-         result="shape"
-         id="feBlend64" />
-    </filter>
-    <filter
-       id="filter1_d_3_4"
-       x="0"
-       y="0"
-       width="285.685"
-       height="24.5778"
-       filterUnits="userSpaceOnUse"
-       color-interpolation-filters="sRGB">
-      <feFlood
-         flood-opacity="0"
-         result="BackgroundImageFix"
-         id="feFlood64" />
-      <feColorMatrix
-         in="SourceAlpha"
-         type="matrix"
-         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
-         result="hardAlpha"
-         id="feColorMatrix64" />
-      <feOffset
-         id="feOffset64" />
-      <feGaussianBlur
-         stdDeviation="1.5"
-         id="feGaussianBlur64" />
-      <feColorMatrix
-         type="matrix"
-         values="0 0 0 0 0 0 0 0 0 0.145098 0 0 0 0 0.180392 0 0 0 0.181839 0"
-         id="feColorMatrix65" />
-      <feBlend
-         mode="normal"
-         in2="BackgroundImageFix"
-         result="effect1_dropShadow_3_4"
-         id="feBlend65" />
-      <feBlend
-         mode="normal"
-         in="SourceGraphic"
-         in2="effect1_dropShadow_3_4"
-         result="shape"
-         id="feBlend66" />
-    </filter>
-    <filter
-       id="filter2_d_3_4"
-       x="203.771"
-       y="61.3778"
-       width="97.2285"
-       height="152.622"
-       filterUnits="userSpaceOnUse"
-       color-interpolation-filters="sRGB">
-      <feFlood
-         flood-opacity="0"
-         result="BackgroundImageFix"
-         id="feFlood66" />
-      <feColorMatrix
-         in="SourceAlpha"
-         type="matrix"
-         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
-         result="hardAlpha"
-         id="feColorMatrix66" />
-      <feOffset
-         id="feOffset66" />
-      <feGaussianBlur
-         stdDeviation="1"
-         id="feGaussianBlur66" />
-      <feColorMatrix
-         type="matrix"
-         values="0 0 0 0 0 0 0 0 0 0.145098 0 0 0 0 0.180392 0 0 0 0.181839 0"
-         id="feColorMatrix67" />
-      <feBlend
-         mode="normal"
-         in2="BackgroundImageFix"
-         result="effect1_dropShadow_3_4"
-         id="feBlend67" />
-      <feBlend
-         mode="normal"
-         in="SourceGraphic"
-         in2="effect1_dropShadow_3_4"
-         result="shape"
-         id="feBlend68" />
-    </filter>
-    <filter
-       id="filter3_d_3_4"
-       x="203.771"
-       y="61.3778"
-       width="97.2285"
-       height="19.853"
-       filterUnits="userSpaceOnUse"
-       color-interpolation-filters="sRGB">
-      <feFlood
-         flood-opacity="0"
-         result="BackgroundImageFix"
-         id="feFlood68" />
-      <feColorMatrix
-         in="SourceAlpha"
-         type="matrix"
-         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
-         result="hardAlpha"
-         id="feColorMatrix68" />
-      <feOffset
-         id="feOffset68" />
-      <feGaussianBlur
-         stdDeviation="1"
-         id="feGaussianBlur68" />
-      <feColorMatrix
-         type="matrix"
-         values="0 0 0 0 0 0 0 0 0 0.145098 0 0 0 0 0.180392 0 0 0 0.181839 0"
-         id="feColorMatrix69" />
-      <feBlend
-         mode="normal"
-         in2="BackgroundImageFix"
-         result="effect1_dropShadow_3_4"
-         id="feBlend69" />
-      <feBlend
-         mode="normal"
-         in="SourceGraphic"
-         in2="effect1_dropShadow_3_4"
-         result="shape"
-         id="feBlend70" />
-    </filter>
-    <linearGradient
-       id="paint0_linear_3_4"
-       x1="8.29393"
-       y1="45.3519"
-       x2="25.3013"
-       y2="84.9029"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         stop-color="#FAD961"
-         id="stop70" />
-      <stop
-         offset="1"
-         stop-color="#FF52C1"
-         id="stop71" />
-    </linearGradient>
-    <linearGradient
-       id="paint1_linear_3_4"
-       x1="23.9766"
-       y1="82.5361"
-       x2="23.9766"
-       y2="108.661"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         stop-color="#00C7FA"
-         id="stop72" />
-      <stop
-         offset="1"
-         stop-color="#007DFA"
-         id="stop73" />
-    </linearGradient>
-    <linearGradient
-       id="paint2_linear_3_4"
-       x1="16.9891"
-       y1="132.044"
-       x2="32.9534"
-       y2="161.155"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         stop-color="#FF52C1"
-         id="stop74" />
-      <stop
-         offset="1"
-         stop-color="#9952FF"
-         id="stop75" />
-    </linearGradient>
-    <linearGradient
-       id="paint3_linear_3_4"
-       x1="210.193"
-       y1="95.4445"
-       x2="215.508"
-       y2="107.804"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         stop-color="#FAD961"
-         id="stop76" />
-      <stop
-         offset="1"
-         stop-color="#FF52C1"
-         id="stop77" />
-    </linearGradient>
-    <linearGradient
-       id="paint4_linear_3_4"
-       x1="210.193"
-       y1="135.503"
-       x2="215.508"
-       y2="147.863"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         stop-color="#FAD961"
-         id="stop78" />
-      <stop
-         offset="1"
-         stop-color="#FF52C1"
-         id="stop79" />
-    </linearGradient>
-    <linearGradient
-       id="paint5_linear_3_4"
-       x1="215.094"
-       y1="108.081"
-       x2="215.094"
-       y2="116.789"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         stop-color="#00C7FA"
-         id="stop80" />
-      <stop
-         offset="1"
-         stop-color="#007DFA"
-         id="stop81" />
-    </linearGradient>
-    <linearGradient
-       id="paint6_linear_3_4"
-       x1="215.094"
-       y1="148.139"
-       x2="215.094"
-       y2="156.847"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         stop-color="#00C7FA"
-         id="stop82" />
-      <stop
-         offset="1"
-         stop-color="#007DFA"
-         id="stop83" />
-    </linearGradient>
-    <linearGradient
-       id="paint7_linear_3_4"
-       x1="212.765"
-       y1="124.099"
-       x2="218.087"
-       y2="133.803"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         stop-color="#FF52C1"
-         id="stop84" />
-      <stop
-         offset="1"
-         stop-color="#9952FF"
-         id="stop85" />
-    </linearGradient>
-    <linearGradient
-       id="paint8_linear_3_4"
-       x1="212.765"
-       y1="164.158"
-       x2="218.087"
-       y2="173.861"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         stop-color="#FF52C1"
-         id="stop86" />
-      <stop
-         offset="1"
-         stop-color="#9952FF"
-         id="stop87" />
-    </linearGradient>
-    <linearGradient
-       id="paint9_linear_3_4"
-       x1="210.193"
-       y1="175.561"
-       x2="215.508"
-       y2="187.921"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         stop-color="#FAD961"
-         id="stop88" />
-      <stop
-         offset="1"
-         stop-color="#FF52C1"
-         id="stop89" />
-    </linearGradient>
-    <linearGradient
-       id="paint10_linear_3_4"
-       x1="215.094"
-       y1="188.197"
-       x2="215.094"
-       y2="196.906"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         stop-color="#00C7FA"
-         id="stop90" />
-      <stop
-         offset="1"
-         stop-color="#007DFA"
-         id="stop91" />
-    </linearGradient>
-  </defs>
+<svg width="1082" height="766" viewBox="0 0 1082 766" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_3_4)">
+<rect x="3.4917" y="3.44879" width="1017.17" height="633.419" rx="5.82677" fill="white"/>
+</g>
+<g filter="url(#filter1_d_3_4)">
+<path d="M3.4917 9.27556C3.4917 6.05752 6.10043 3.44879 9.31847 3.44879H1014.84C1018.06 3.44879 1020.67 6.05753 1020.67 9.27556V71.0135H3.4917V9.27556Z" fill="#00252E"/>
+</g>
+<rect x="79.7803" y="24.5628" width="211.911" height="25.3367" rx="1.45669" fill="#E1E8EE"/>
+<rect x="918.947" y="26.6741" width="33.9058" height="4.22279" rx="0.582677" fill="#D8D8D8"/>
+<rect x="918.947" y="35.1197" width="33.9058" height="4.22279" rx="0.582677" fill="#D8D8D8"/>
+<rect x="918.947" y="43.5653" width="33.9058" height="4.22279" rx="0.582677" fill="#D8D8D8"/>
+<ellipse cx="130.639" cy="199.809" rx="50.8587" ry="50.6735" fill="url(#paint0_linear_3_4)"/>
+<rect x="240.833" y="161.803" width="121.849" height="16.8912" rx="0.874016" fill="#E1E8EE"/>
+<rect x="240.833" y="195.586" width="423.822" height="8.44558" rx="0.874016" fill="#E1E8EE"/>
+<rect x="240.833" y="212.477" width="388.504" height="8.44558" rx="0.874016" fill="#E1E8EE"/>
+<rect x="240.833" y="229.368" width="353.185" height="8.44558" rx="0.874016" fill="#E1E8EE"/>
+<ellipse cx="728.229" cy="199.809" rx="12.7147" ry="12.6684" fill="#A7B9C8"/>
+<ellipse cx="796.04" cy="199.809" rx="12.7147" ry="12.6684" fill="#A7B9C8"/>
+<ellipse cx="762.134" cy="199.809" rx="12.7147" ry="12.6684" fill="#A7B9C8"/>
+<ellipse cx="829.945" cy="199.809" rx="12.7147" ry="12.6684" fill="#A7B9C8"/>
+<ellipse cx="863.853" cy="199.809" rx="12.7147" ry="12.6684" fill="#A7B9C8"/>
+<ellipse cx="127.46" cy="340.216" rx="47.68" ry="47.5064" fill="url(#paint1_linear_3_4)"/>
+<rect x="237.655" y="302.211" width="121.849" height="16.8912" rx="0.874016" fill="#E1E8EE"/>
+<rect x="237.655" y="335.994" width="423.822" height="8.44558" rx="0.874016" fill="#E1E8EE"/>
+<rect x="237.655" y="352.885" width="388.504" height="8.44558" rx="0.874016" fill="#E1E8EE"/>
+<rect x="237.655" y="369.776" width="353.185" height="8.44558" rx="0.874016" fill="#E1E8EE"/>
+<ellipse cx="725.05" cy="340.216" rx="12.7147" ry="12.6684" fill="#A7B9C8"/>
+<ellipse cx="792.861" cy="340.216" rx="12.7147" ry="12.6684" fill="#A7B9C8"/>
+<ellipse cx="758.955" cy="340.216" rx="12.7147" ry="12.6684" fill="#A7B9C8"/>
+<ellipse cx="127.46" cy="491.181" rx="47.68" ry="47.5064" fill="url(#paint2_linear_3_4)"/>
+<rect x="237.655" y="453.176" width="121.849" height="16.8912" rx="0.874016" fill="#E1E8EE"/>
+<rect x="237.655" y="486.958" width="423.822" height="8.44558" rx="0.874016" fill="#E1E8EE"/>
+<rect x="237.655" y="503.85" width="388.504" height="8.44558" rx="0.874016" fill="#E1E8EE"/>
+<rect x="237.655" y="520.741" width="353.185" height="8.44558" rx="0.874016" fill="#E1E8EE"/>
+<ellipse cx="725.05" cy="491.181" rx="12.7147" ry="12.6684" fill="#A7B9C8"/>
+<ellipse cx="792.861" cy="491.181" rx="12.7147" ry="12.6684" fill="#A7B9C8"/>
+<ellipse cx="758.955" cy="491.181" rx="12.7147" ry="12.6684" fill="#A7B9C8"/>
+<ellipse cx="826.766" cy="491.181" rx="12.7147" ry="12.6684" fill="#A7B9C8"/>
+<g filter="url(#filter2_d_3_4)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M740.942 228.006C740.942 225.26 743.169 223.034 745.915 223.034H1075.03C1077.77 223.034 1080 225.26 1080 228.006V758.579C1080 761.325 1077.77 763.551 1075.03 763.551H745.915C743.168 763.551 740.942 761.325 740.942 758.579V228.006Z" fill="white"/>
+</g>
+<g filter="url(#filter3_d_3_4)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M740.942 228.006C740.942 225.26 743.169 223.034 745.915 223.034H1075.03C1077.77 223.034 1080 225.26 1080 228.006V280.689H740.942V228.006Z" fill="#00252E"/>
+</g>
+<rect x="774.99" y="242.853" width="110.194" height="21.6207" rx="1.24304" fill="#E1E8EE"/>
+<rect x="1014.9" y="244.655" width="28.9329" height="3.60345" rx="0.497218" fill="#D8D8D8"/>
+<rect x="1014.9" y="251.861" width="28.9329" height="3.60345" rx="0.497218" fill="#D8D8D8"/>
+<rect x="1014.9" y="259.068" width="28.9329" height="3.60345" rx="0.497218" fill="#D8D8D8"/>
+<ellipse cx="790.741" cy="352.885" rx="15.8933" ry="15.8355" fill="url(#paint3_linear_3_4)"/>
+<rect x="823.586" y="340.216" width="60.9245" height="5.63039" rx="0.267918" fill="#E1E8EE"/>
+<rect x="823.586" y="351.477" width="211.911" height="2.81519" rx="0.267918" fill="#E1E8EE"/>
+<rect x="823.586" y="357.108" width="194.252" height="2.81519" rx="0.267918" fill="#E1E8EE"/>
+<rect x="823.586" y="362.738" width="176.593" height="2.81519" rx="0.267918" fill="#E1E8EE"/>
+<ellipse cx="790.741" cy="498.571" rx="15.8933" ry="15.8355" fill="url(#paint4_linear_3_4)"/>
+<rect x="823.586" y="485.903" width="60.9245" height="5.63039" rx="0.267918" fill="#E1E8EE"/>
+<rect x="823.586" y="497.163" width="211.911" height="2.81519" rx="0.267918" fill="#E1E8EE"/>
+<rect x="823.586" y="502.794" width="194.252" height="2.81519" rx="0.267918" fill="#E1E8EE"/>
+<rect x="823.586" y="508.424" width="176.593" height="2.81519" rx="0.267918" fill="#E1E8EE"/>
+<rect x="823.586" y="388.778" width="60.9245" height="5.63039" rx="0.267918" fill="#E1E8EE"/>
+<rect x="823.586" y="400.039" width="211.911" height="2.81519" rx="0.267918" fill="#E1E8EE"/>
+<rect x="823.586" y="405.67" width="194.252" height="2.81519" rx="0.267918" fill="#E1E8EE"/>
+<rect x="823.586" y="411.3" width="176.593" height="2.81519" rx="0.267918" fill="#E1E8EE"/>
+<ellipse cx="790.741" cy="401.447" rx="15.8933" ry="15.8355" fill="url(#paint5_linear_3_4)"/>
+<rect x="823.586" y="534.465" width="60.9245" height="5.63039" rx="0.267918" fill="#E1E8EE"/>
+<rect x="823.586" y="545.726" width="211.911" height="2.81519" rx="0.267918" fill="#E1E8EE"/>
+<rect x="823.586" y="551.356" width="194.252" height="2.81519" rx="0.267918" fill="#E1E8EE"/>
+<rect x="823.586" y="556.986" width="176.593" height="2.81519" rx="0.267918" fill="#E1E8EE"/>
+<ellipse cx="790.741" cy="547.133" rx="15.8933" ry="15.8355" fill="url(#paint6_linear_3_4)"/>
+<rect x="823.586" y="437.341" width="60.9245" height="5.63039" rx="0.267918" fill="#E1E8EE"/>
+<rect x="823.586" y="448.601" width="211.911" height="2.81519" rx="0.267918" fill="#E1E8EE"/>
+<rect x="823.586" y="454.232" width="194.252" height="2.81519" rx="0.267918" fill="#E1E8EE"/>
+<rect x="823.586" y="459.862" width="176.593" height="2.81519" rx="0.267918" fill="#E1E8EE"/>
+<ellipse cx="790.741" cy="450.009" rx="15.8933" ry="15.8355" fill="url(#paint7_linear_3_4)"/>
+<rect x="823.586" y="583.027" width="60.9245" height="5.63039" rx="0.267918" fill="#E1E8EE"/>
+<rect x="823.586" y="594.288" width="211.911" height="2.81519" rx="0.267918" fill="#E1E8EE"/>
+<rect x="823.586" y="599.918" width="194.252" height="2.81519" rx="0.267918" fill="#E1E8EE"/>
+<rect x="823.586" y="605.548" width="176.593" height="2.81519" rx="0.267918" fill="#E1E8EE"/>
+<ellipse cx="790.741" cy="595.695" rx="15.8933" ry="15.8355" fill="url(#paint8_linear_3_4)"/>
+<ellipse cx="790.741" cy="644.257" rx="15.8933" ry="15.8355" fill="url(#paint9_linear_3_4)"/>
+<rect x="823.586" y="631.589" width="60.9245" height="5.63039" rx="0.267918" fill="#E1E8EE"/>
+<rect x="823.586" y="642.85" width="211.911" height="2.81519" rx="0.267918" fill="#E1E8EE"/>
+<rect x="823.586" y="648.48" width="194.252" height="2.81519" rx="0.267918" fill="#E1E8EE"/>
+<rect x="823.586" y="654.111" width="176.593" height="2.81519" rx="0.267918" fill="#E1E8EE"/>
+<rect x="823.586" y="680.151" width="60.9245" height="5.63039" rx="0.267918" fill="#E1E8EE"/>
+<rect x="823.586" y="691.412" width="211.911" height="2.81519" rx="0.267918" fill="#E1E8EE"/>
+<rect x="823.586" y="697.042" width="194.252" height="2.81519" rx="0.267918" fill="#E1E8EE"/>
+<rect x="823.586" y="702.673" width="176.593" height="2.81519" rx="0.267918" fill="#E1E8EE"/>
+<ellipse cx="790.741" cy="692.819" rx="15.8933" ry="15.8355" fill="url(#paint10_linear_3_4)"/>
+<defs>
+<filter id="filter0_d_3_4" x="0.491699" y="0.448792" width="1023.17" height="639.419" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="1.5"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0.145098 0 0 0 0 0.180392 0 0 0 0.181839 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_3_4"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_3_4" result="shape"/>
+</filter>
+<filter id="filter1_d_3_4" x="0.491699" y="0.448792" width="1023.17" height="73.5647" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="1.5"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0.145098 0 0 0 0 0.180392 0 0 0 0.181839 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_3_4"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_3_4" result="shape"/>
+</filter>
+<filter id="filter2_d_3_4" x="738.942" y="221.034" width="343.058" height="544.517" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0.145098 0 0 0 0 0.180392 0 0 0 0.181839 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_3_4"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_3_4" result="shape"/>
+</filter>
+<filter id="filter3_d_3_4" x="738.942" y="221.034" width="343.058" height="61.6552" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0.145098 0 0 0 0 0.180392 0 0 0 0.181839 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_3_4"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_3_4" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_3_4" x1="22.7448" y1="157.477" x2="84.5982" y2="301.318" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FAD961"/>
+<stop offset="1" stop-color="#FF52C1"/>
+</linearGradient>
+<linearGradient id="paint1_linear_3_4" x1="79.7803" y1="292.71" x2="79.7803" y2="387.723" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00C7FA"/>
+<stop offset="1" stop-color="#007DFA"/>
+</linearGradient>
+<linearGradient id="paint2_linear_3_4" x1="54.3678" y1="472.762" x2="112.428" y2="578.636" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF52C1"/>
+<stop offset="1" stop-color="#9952FF"/>
+</linearGradient>
+<linearGradient id="paint3_linear_3_4" x1="757.024" y1="339.656" x2="776.353" y2="384.606" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FAD961"/>
+<stop offset="1" stop-color="#FF52C1"/>
+</linearGradient>
+<linearGradient id="paint4_linear_3_4" x1="757.024" y1="485.342" x2="776.353" y2="530.293" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FAD961"/>
+<stop offset="1" stop-color="#FF52C1"/>
+</linearGradient>
+<linearGradient id="paint5_linear_3_4" x1="774.848" y1="385.611" x2="774.848" y2="417.282" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00C7FA"/>
+<stop offset="1" stop-color="#007DFA"/>
+</linearGradient>
+<linearGradient id="paint6_linear_3_4" x1="774.848" y1="531.298" x2="774.848" y2="562.969" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00C7FA"/>
+<stop offset="1" stop-color="#007DFA"/>
+</linearGradient>
+<linearGradient id="paint7_linear_3_4" x1="766.377" y1="443.869" x2="785.73" y2="479.161" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF52C1"/>
+<stop offset="1" stop-color="#9952FF"/>
+</linearGradient>
+<linearGradient id="paint8_linear_3_4" x1="766.377" y1="589.555" x2="785.73" y2="624.847" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF52C1"/>
+<stop offset="1" stop-color="#9952FF"/>
+</linearGradient>
+<linearGradient id="paint9_linear_3_4" x1="757.024" y1="631.029" x2="776.353" y2="675.979" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FAD961"/>
+<stop offset="1" stop-color="#FF52C1"/>
+</linearGradient>
+<linearGradient id="paint10_linear_3_4" x1="774.848" y1="676.984" x2="774.848" y2="708.655" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00C7FA"/>
+<stop offset="1" stop-color="#007DFA"/>
+</linearGradient>
+</defs>
 </svg>

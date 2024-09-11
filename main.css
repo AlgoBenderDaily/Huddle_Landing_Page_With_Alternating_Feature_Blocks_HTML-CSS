@@ -323,3 +323,7 @@ a:any-link {
   color: white;
   font: normal 12px var(--FF2);
 }
+
+@media screen and (min-width: 992px) {
+    
+}
