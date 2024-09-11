@@ -335,7 +335,7 @@ a:any-link {
 @media screen and (min-width: 992px) {
   /* || HEADER*/
   .header {
-    padding: 68px 0px 72px 0px;
+    padding: 68px 80px 72px 80px;
     gap: 71px;
     background-image: url("./images/bg-hero-desktop.svg");
     background-position: -20px center;
@@ -349,10 +349,6 @@ a:any-link {
 
   .header__logo img {
     width: 200px;
-    /* position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    left: 0; */
   }
 
   .header__cta-btn {
