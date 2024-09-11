@@ -349,6 +349,10 @@ a:any-link {
 
   .header__logo img {
     width: 200px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 0;
   }
 
   .header__cta-btn {
