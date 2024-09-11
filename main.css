@@ -92,7 +92,7 @@ a:any-link {
 }
 
 .header__logo img {
-  max-width: 104px;
+  width: 104px;
   height: auto;
 }
 
@@ -344,11 +344,12 @@ a:any-link {
 
   /* || HEADER-NAV */
   .header__nav {
-    gap: 190%;
+    gap: 0%;
   }
 
   .header__logo img {
-    max-width: 250px;
+    width: 250px;
+    margin-right: 880px;
   }
 
   .header__cta-btn {
