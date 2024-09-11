@@ -92,7 +92,8 @@ a:any-link {
 }
 
 .header__logo img {
-  width: 104px;
+  max-width: 104px;
+  height: auto;
 }
 
 .header__cta-btn {
@@ -348,11 +349,7 @@ a:any-link {
   }
 
   .header__logo img {
-    width: 200px;
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    left: 0;
+    max-width: 250px;
   }
 
   .header__cta-btn {
